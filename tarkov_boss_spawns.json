@@ -1,0 +1,271 @@
+{
+  "maps": {
+    "Customs": [
+      {
+        "boss": "Reshala",
+        "spawn_chance": "75%",
+        "locations": [
+          "Dorms33%",
+          "New Gas Station33%",
+          "Stronghold33%"
+        ]
+      },
+      {
+        "boss": "Goons",
+        "spawn_chance": "30%",
+        "locations": [
+          "Stronghold100%"
+        ]
+      },
+      {
+        "boss": "Partisan",
+        "spawn_chance": "20%",
+        "locations": []
+      },
+      {
+        "boss": "Cultist Priest",
+        "spawn_chance": "20%",
+        "locations": [
+          "Stronghold100%"
+        ]
+      }
+    ],
+    "Factory": [
+      {
+        "boss": "Tagilla",
+        "spawn_chance": "50%",
+        "locations": [
+          "Any scav spawn100%"
+        ]
+      }
+    ],
+    "Ground Zero 21+": [
+      {
+        "boss": "Cultist Priest",
+        "spawn_chance": "2%",
+        "locations": [
+          "Any scav spawn100%"
+        ]
+      }
+    ],
+    "Ground Zero Tutorial": [
+      {
+        "boss": "Scavs",
+        "spawn_chance": "100%",
+        "locations": [
+          "Any scav spawn100%"
+        ]
+      }
+    ],
+    "Interchange": [
+      {
+        "boss": "Killa",
+        "spawn_chance": "75%",
+        "locations": [
+          "Center40%",
+          "OLI20%",
+          "IDEA20%",
+          "Goshan20%"
+        ]
+      },
+      {
+        "boss": "Tagilla",
+        "spawn_chance": "50%",
+        "locations": [
+          "Tagilla100%"
+        ]
+      }
+    ],
+    "Lighthouse": [
+      {
+        "boss": "Zryachiy",
+        "spawn_chance": "100%",
+        "locations": [
+          "Island100%"
+        ]
+      },
+      {
+        "boss": "Rogue",
+        "spawn_chance": "80%",
+        "locations": [
+          "Water Treatment Southwest Gate100%"
+        ]
+      },
+      {
+        "boss": "Goons",
+        "spawn_chance": "30%",
+        "locations": [
+          "Water Treatment North Building50%",
+          "Chalet50%"
+        ]
+      },
+      {
+        "boss": "Partisan",
+        "spawn_chance": "20%",
+        "locations": []
+      }
+    ],
+    "Night Factory": [
+      {
+        "boss": "Tagilla",
+        "spawn_chance": "75%",
+        "locations": [
+          "Any scav spawn100%"
+        ]
+      },
+      {
+        "boss": "Cultist Priest",
+        "spawn_chance": "2%",
+        "locations": [
+          "Any scav spawn100%"
+        ]
+      }
+    ],
+    "Reserve": [
+      {
+        "boss": "Glukhar",
+        "spawn_chance": "75%",
+        "locations": [
+          "K Buildings25%",
+          "White Knight25%",
+          "Barracks25%",
+          "Storage Bunker25%"
+        ]
+      },
+      {
+        "boss": "Raider",
+        "spawn_chance": "40%",
+        "locations": [
+          "K Buildings100%"
+        ]
+      }
+    ],
+    "Shoreline": [
+      {
+        "boss": "AF",
+        "spawn_chance": "100%",
+        "locations": [
+          "GateTowerRight100%"
+        ]
+      },
+      {
+        "boss": "Sanitar",
+        "spawn_chance": "75%",
+        "locations": [
+          "Greenhouses40%",
+          "West Wing20%",
+          "East Wing20%",
+          "Pier20%"
+        ]
+      },
+      {
+        "boss": "Goons",
+        "spawn_chance": "30%",
+        "locations": [
+          "Weather Station100%"
+        ]
+      },
+      {
+        "boss": "Partisan",
+        "spawn_chance": "20%",
+        "locations": []
+      },
+      {
+        "boss": "Cultist Priest",
+        "spawn_chance": "20%",
+        "locations": [
+          "Northeast of Sunken Village60%",
+          "West Wing20%",
+          "East Wing20%"
+        ]
+      }
+    ],
+    "Streets of Tarkov": [
+      {
+        "boss": "Kaban",
+        "spawn_chance": "75%",
+        "locations": [
+          "Car Dealership100%"
+        ]
+      },
+      {
+        "boss": "Kollontay",
+        "spawn_chance": "75%",
+        "locations": [
+          "Klimov Shopping Mall50%",
+          "Ministry of the Interior Academy50%"
+        ]
+      }
+    ],
+    "Terminal": [
+      {
+        "boss": "Glukhar",
+        "spawn_chance": "100%",
+        "locations": [
+          "(No specific location)100%"
+        ]
+      },
+      {
+        "boss": "bossBully (Reshala?)",
+        "spawn_chance": "100%",
+        "locations": [
+          "66100%"
+        ]
+      }
+    ],
+    "The Lab": [
+      {
+        "boss": "Raider",
+        "spawn_chance": "60%",
+        "locations": [
+          "First Floor100%"
+        ]
+      }
+    ],
+    "The Labyrinth": [
+      {
+        "boss": "Shadow of Tagilla",
+        "spawn_chance": "100%",
+        "locations": []
+      },
+      {
+        "boss": "Labyrinthian",
+        "spawn_chance": "100%",
+        "locations": [
+          "(No specific location)100%"
+        ]
+      }
+    ],
+    "Woods": [
+      {
+        "boss": "Shturman",
+        "spawn_chance": "75%",
+        "locations": [
+          "Lumber Mill100%"
+        ]
+      },
+      {
+        "boss": "Goons",
+        "spawn_chance": "25%",
+        "locations": [
+          "Northwest Scav Bunker100%"
+        ]
+      },
+      {
+        "boss": "Cultist Priest",
+        "spawn_chance": "25%",
+        "locations": [
+          "West of Lumber Mill50%",
+          "Rundown Village50%"
+        ]
+      },
+      {
+        "boss": "Partisan",
+        "spawn_chance": "20%",
+        "locations": []
+      }
+    ]
+  },
+  "total_maps": 14,
+  "timestamp": "2025-11-25 15:09:28"
+}
