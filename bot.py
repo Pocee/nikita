@@ -21,7 +21,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 async def on_ready():
     print(f'✅ Bot conectado como {bot.user}')
 
-@bot.command(name='bosses')
+@bot.command(name='bosses', aliases=['b'])
 async def bosses(ctx, *, query: str = None):
     data = load_boss_data()
     if not data:
