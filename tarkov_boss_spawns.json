@@ -261,7 +261,7 @@
       },
       {
         "boss": "Partisan",
-        "spawn_chance": "20%",
+        "spawn_chance": "200%",
         "locations": []
       }
     ]
