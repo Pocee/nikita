@@ -261,11 +261,11 @@
       },
       {
         "boss": "Partisan",
-        "spawn_chance": "200%",
+        "spawn_chance": "20%",
         "locations": []
       }
     ]
   },
   "total_maps": 14,
-  "timestamp": "2025-11-25 15:09:28"
+  "timestamp": "2025-11-25 15:58:45"
 }
